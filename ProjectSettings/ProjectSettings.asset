@@ -462,6 +462,7 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     Collab: 1
+    UNet: 1
   cloudProjectId: 294dee83-9f62-410b-afb4-da665e099983
   projectName: GameDevCoursework2
   organizationId: lloyd-2669031
